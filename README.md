@@ -19,13 +19,13 @@ I'm a passionate developer with a keen interest in open-source projects and cutt
 
 ## 📫 How to reach me
 - GitHub: [wahyualif23014](https://github.com/wahyualif23014)
-- Email: [wahyualif23014@example.com](mailto:wahyualif23014@example.com)
+- Email: [zexvulca@gmail.com](mailto:zexvulca@gmail.com)
 
 ## ⚡ Fun fact
 I love solving puzzles and playing chess in my free time.
 
 ## 🛠️ My favorite tools and technologies
-- **Languages:** JavaScript, TypeScript, Python
+- **Languages:** JavaScript, TypeScript, Python, ReactJs
 - **Frameworks:** React, Vue, Express
 - **Tools:** Git, Docker, Kubernetes
 - **Databases:** MongoDB, PostgreSQL, MySQL
