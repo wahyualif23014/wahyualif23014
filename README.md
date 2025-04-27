@@ -24,10 +24,10 @@ I'm a passionate developer with a keen interest in open-source projects and cutt
 I love solving puzzles and playing chess in my free time.
 
 ## 🛠️ My favorite tools and technologies
-- **Languages:** JavaScript, C#, Python, Flutter, Flask
+- **Languages:** JavaScript, C#, Python, Flutter, Flask, Ruby
 - **Frameworks:** React, Vue, Streamlite
 - **Tools:** Git.
-- **Databases:** PostgreSQL, MySQL
+- **Databases:** PostgreSQL, MySQL, MongoDB
 
 Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
 
