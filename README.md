@@ -1,34 +1,81 @@
-# Hi there, I'm Wahyu Alif! 👋
+<h1 align="center">Hi there, I'm Wahyu Alif! 👋</h1>
 
-I'm a passionate developer with a keen interest in open-source projects and cutting-edge technologies. I love to explore new tools and frameworks, and I'm always looking for ways to improve my skills and contribute to the developer community.
+<p align="center">
+  <em>A passionate <strong>App Developer</strong> who loves crafting mobile & web experiences.</em><br>
+  💻 Always exploring new frameworks, contributing to open-source, and pushing boundaries with clean code.
+</p>
 
-## 🔭 What I'm working on
-- Building innovative project App
-- Contributing to open-source projects
-- Experimenting with machine learning and AI
+---
 
-## 🌱 What I'm learning
-- Advanced JavaScript, Flutter, Python, JavaScript
-- Backend development with Node.js 
+## 🚀 What I'm Working On
+- 🚧 Developing modern & scalable **App Projects** (Mobile + Web)
+- 🤝 Actively contributing to **Open-Source** communities
+- 🧠 Exploring **Machine Learning** & **AI** integrations into apps
 
-## 💬 Ask me about
-- App development
-- Open-source contributions
-- Any tech-related topics
+---
 
-## 📫 How to reach me
-- GitHub: [wahyualif23014](https://github.com/wahyualif23014)
-- Email: [zexvulca@gmail.com](mailto:zexvulca@gmail.com)
+## 🌱 Currently Learning
+- 🔁 **Advanced JavaScript** (React & Vue)
+- 📱 **Flutter** & Cross-platform mobile development
+- 🔙 **Backend** using **Node.js**, **Express**, and **API development**
 
-## ⚡ Fun fact
-I love solving puzzles and playing chess in my free time.
+---
 
-## 🛠️ My favorite tools and technologies
-- **Languages:** JavaScript, C#, Python, Flutter, Flask, Ruby, Java
-- **Frameworks:** React, Vue, Streamlite, Node 
-- **Tools:** Git.
-- **Databases:** PostgreSQL, MySQL, MongoDB
+## 💬 Ask Me About
+- 📲 **Mobile & Web App Development**
+- 🚀 How to start contributing to open-source
+- 🧩 Anything tech-related — I’m happy to chat!
 
-Feel free to check out my repositories and reach out if you have any questions or collaboration ideas!
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyualif23014&show_icons=true&theme=radical)
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📬 Email: [zexvulca@gmail.com](mailto:zexvulca@gmail.com)
+- 🧑‍💻 GitHub: [@wahyualif23014](https://github.com/wahyualif23014)
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving logic puzzles and battling it out on the chessboard ♟️ during my free time!
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wahyualif23014&show_icons=true&theme=radical" alt="Wahyu's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyualif23014&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
