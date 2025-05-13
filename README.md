@@ -71,7 +71,6 @@ I enjoy solving logic puzzles and battling it out on the chessboard ♟️ durin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahyualif23014&show_icons=true&theme=radical" alt="Wahyu's GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyualif23014&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
