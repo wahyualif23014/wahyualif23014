@@ -62,7 +62,12 @@
 ---
 
 ## ⚡ Fun Fact
-I enjoy solving logic puzzles and battling it out on the chessboard ♟️ during my free time!
+I enjoy solving logic puzzles and battling it out on the chessboard ♟️ during my free time!,
+---
+Determine your steps even while sleeping
+keep moving forward, believe me everything will come in its time 👌
+
+
 
 ---
 
