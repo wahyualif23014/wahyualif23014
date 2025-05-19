@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7CE68&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Wahyu+Alif+(Sadewa)!+👋;App+Developer+%7C+Mobile+%26+Web+Enthusiast;Clean+Code+%7C+Open+Source+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
+</p>
 
 ---
 
@@ -46,19 +49,11 @@
 
 ---
 
-## 🎨 Featured Developer Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animation" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 📬 Email: [zexvulca@gmail.com](mailto:zexvulca@gmail.com)
 - 🧑‍💻 GitHub: [@wahyualif23014](https://github.com/wahyualif23014)
-
+- 📸 Instagram: [@wahyualif.dev](https://instagram.com/Sadewa..6.dev)
 ---
 
 ## 📈 GitHub Stats
@@ -66,7 +61,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahyualif23014&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyualif23014&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
