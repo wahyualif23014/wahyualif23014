@@ -36,6 +36,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,flutter,dart,java,python,nodejs,php" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Nmap-004170?logo=gnometerminal&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?logo=burpsuite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-2360A5?logo=metasploit&logoColor=white&style=for-the-badge" />
+</p>
 
 ### 🧰 Tools & Platforms
 <p>
