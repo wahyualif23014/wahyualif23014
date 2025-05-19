@@ -53,7 +53,7 @@
 
 - 📬 Email: [zexvulca@gmail.com](mailto:zexvulca@gmail.com)
 - 🧑‍💻 GitHub: [@wahyualif23014](https://github.com/wahyualif23014)
-- 📸 Instagram: [@wSadewa..6](https://instagram.com/Sadewa..6.dev)
+- 📸 Instagram: [@Sadewa..](https://instagram.com/Sadewa..dev)
 ---
 
 ## 📈 GitHub Stats
