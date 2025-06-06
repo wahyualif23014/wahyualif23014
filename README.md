@@ -12,8 +12,9 @@
 </div>
 
 ---
-
+<div align="center">
 ## 🎯 Professional Overview
+</div>
 
 ---
 
