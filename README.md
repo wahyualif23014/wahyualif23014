@@ -64,26 +64,40 @@
 
 ### **💻 Core Languages & Frameworks**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,nodejs,java,flask,python,mysql,postgres,linux,redux,tailwind,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flutter,dart,nodejs,express,java,spring,php,flask,python&theme=dark" />
 </div>
 
-### **🤖 AI & Machine Learning**
+---
+
+### 🤖 **AI & Machine Learning**
+
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
-### **🧰 Development Tools & Platforms**
+---
+
+### 🧰 **Development Tools & Platforms**
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,git,github,vscode,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,sqlite,git,github,linux,vscode,figma,postman,docker&theme=dark" />
 </div>
 
-### **📱 Mobile & Design Tools**
+---
+
+### 📱 **Mobile & Design Tools**
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,figma,tailwind,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,figma,tailwind,materialui,bootstrap&theme=dark" />
 </div>
+
+---
+
 
 ---
 
