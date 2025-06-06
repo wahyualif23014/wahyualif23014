@@ -197,9 +197,9 @@ const developer = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,25:0f3460,50:16213e,75:1a1a2e,100:0a0a0a&height=150&section=footer&animation=fadeIn" />
 
 <!-- Profile Views Counter with Dark Theme -->
+<div align= "center">
 <img src="https://komarev.com/ghpvc/?username=wahyualif23014&style=for-the-badge&color=64ffda&labelColor=0a0a0a" alt="Profile Views" />
-
+</div>
 <!-- Wave Animation -->
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100" alt="Wave" />
 
 </div>
