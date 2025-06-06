@@ -15,23 +15,6 @@
 
 ## 🎯 Professional Overview
 
-<div align="center">
-
-**🌟 Passionate Full-Stack Developer** specializing in **modern web & mobile applications** with a focus on **clean architecture** and **scalable solutions**. Experienced in building **AI-integrated applications** and contributing to **open-source projects**.
-
-### 🏆 Key Highlights
-```javascript
-const developer = {
-  name: "Wahyu Alif (Sadewa)",
-  role: "Full-Stack Developer",
-  experience: "Mobile & Web Development",
-  passion: ["Clean Code", "Open Source", "AI Integration"],
-  motto: "Building tomorrow's applications today"
-};
-```
-
-</div>
-
 ---
 
 ### 🎨 **Current Focus Areas:**
@@ -68,7 +51,7 @@ const developer = {
 
 | 💼 **Domain** | 🛠️ **Specialization** | 💡 **Experience** |
 |---------------|------------------------|-------------------|
-| **📲 Mobile Development** | Flutter, React Native | Cross-platform apps |
+| **📲 Mobile Development** | Flutter, Kotlin | Cross-platform apps |
 | **🌐 Web Development** | React, Vue, Node.js | Full-stack solutions |
 | **🚀 Open Source** | GitHub, Collaboration | Community projects |
 | **🧠 Clean Code** | Architecture, Patterns | Best practices |
@@ -81,7 +64,7 @@ const developer = {
 
 ### **💻 Core Languages & Frameworks**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,flutter,dart,nodejs,express,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,nodejs,java,flask,python,mysql,postgres,linux,redux,tailwind,bootstrap&theme=dark" />
 </div>
 
 ### **🤖 AI & Machine Learning**
@@ -94,12 +77,12 @@ const developer = {
 
 ### **🧰 Development Tools & Platforms**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,git,github,vscode,figma,docker,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,git,github,vscode,figma,postman&theme=dark" />
 </div>
 
 ### **📱 Mobile & Design Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,xcode,figma,tailwind,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,figma,tailwind,materialui&theme=dark" />
 </div>
 
 ---
