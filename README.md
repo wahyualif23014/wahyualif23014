@@ -1,78 +1,205 @@
-<!-- Header Animasi -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7CE68&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Wahyu+Alif+(Sadewa)!+👋;App+Developer+%7C+Mobile+%26+Web+Enthusiast;Clean+Code+%7C+Open+Source+%7C+Lifelong+Learner" alt="Typing SVG" />
-</p>
-<p align="center" style="background-color:#0D1117; padding:20px; border-radius:10px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
-</p>
 
+<div align="center">
+
+<!-- Enhanced Dark Mode Header Banner -->
+
+<!-- Enhanced Animated Typing with Dark Theme -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=64FFDA&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Wahyu+Alif+(Sadewa)!+👋;Full-Stack+Developer+%7C+Mobile+%26+Web+Expert;Building+Modern+%26+Scalable+Applications;Clean+Code+%7C+Open+Source+%7C+AI+Integration;Always+Learning%2C+Always+Creating+🚀" alt="Typing SVG" />
+
+<!-- Additional Tech Animation -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="660" alt="AI Technology Animation" />
+
+</div>
 
 ---
 
-## 🚀 What I'm Building
+## 🎯 Professional Overview
+
+<div align="center">
+
+**🌟 Passionate Full-Stack Developer** specializing in **modern web & mobile applications** with a focus on **clean architecture** and **scalable solutions**. Experienced in building **AI-integrated applications** and contributing to **open-source projects**.
+
+### 🏆 Key Highlights
+```javascript
+const developer = {
+  name: "Wahyu Alif (Sadewa)",
+  role: "Full-Stack Developer",
+  experience: "Mobile & Web Development",
+  passion: ["Clean Code", "Open Source", "AI Integration"],
+  motto: "Building tomorrow's applications today"
+};
+```
+
+</div>
+
+---
+
+### 🎨 **Current Focus Areas:**
 - ⚙️ Developing **Modern & Scalable Mobile + Web Apps**
-- 🌍 Contributing to **Open-Source Projects**
-- 🧠 Experimenting with **AI/ML Integrations** in Real Apps
+- 🌍 Contributing to **Open-Source Projects** 
+- 🧠 Experimenting with **AI/ML Integrations** in Real Applications
+- 🔧 Building **Clean Architecture** solutions
 
 ---
 
-## 🌱 Currently Learning
-- 🔁 **Advanced JavaScript** (React, Vue)
-- 📱 **Flutter** & Clean Architecture
-- 🔙 **Node.js** + Express + REST API design
+## 🌱 Learning Journey
+
+<div align="center">
+
+<!-- Learning Animation -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Learning Animation" />
+
+### 📚 **Currently Mastering:**
+</div>
+
+- 🔄 **Advanced JavaScript Ecosystem** (React 18, Vue 3, Next.js)
+- 📱 **Flutter Development** & Clean Architecture Patterns
+- 🔙 **Backend Mastery** - Node.js + Express + REST API Design
+- 🤖 **AI/ML Integration** - TensorFlow.js & OpenAI APIs
+- 🎨 **Modern UI/UX** - Tailwind CSS & Component Libraries
 
 ---
 
 ## 💬 Ask Me About
-- 📲 Fullstack Mobile & Web Development
-- 🚀 Open-Source Contributions for Beginners
-- 🧠 Tech Stack Building & Clean Code Practices
+
+<div align="center">
+
+### 🎯 **My Expertise Areas:**
+
+| 💼 **Domain** | 🛠️ **Specialization** | 💡 **Experience** |
+|---------------|------------------------|-------------------|
+| **📲 Mobile Development** | Flutter, React Native | Cross-platform apps |
+| **🌐 Web Development** | React, Vue, Node.js | Full-stack solutions |
+| **🚀 Open Source** | GitHub, Collaboration | Community projects |
+| **🧠 Clean Code** | Architecture, Patterns | Best practices |
+
+</div>
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠️ Technology Arsenal
 
-### 👨‍💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,flutter,dart,java,python,nodejs,php" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Nmap-004170?logo=gnometerminal&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?logo=burpsuite&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metasploit-2360A5?logo=metasploit&logoColor=white&style=for-the-badge" />
-</p>
+### **💻 Core Languages & Frameworks**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,flutter,dart,nodejs,express,python&theme=dark" />
+</div>
 
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,git,github,vscode,figma" />
-</p>
+### **🤖 AI & Machine Learning**
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
 
----
+### **🧰 Development Tools & Platforms**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres,git,github,vscode,figma,docker,postman&theme=dark" />
+</div>
 
-## 🎯 My Philosophy
-> _"Determine your steps even while sleeping – keep moving forward, believe me everything will come in its time."_  
-> <sub><em>– Sadewa Wahyu Alif</em></sub>
-
----
-
-## 📫 Connect With Me
-
-- 📬 Email: [zexvulca@gmail.com](mailto:zexvulca@gmail.com)
-- 🧑‍💻 GitHub: [@wahyualif23014](https://github.com/wahyualif23014)
-- 📸 Instagram: [@Sadewa..](https://instagram.com/Sadewa..dev)
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahyualif23014&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-</p>
+### **📱 Mobile & Design Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,xcode,figma,tailwind,materialui&theme=dark" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F79533,100:F37055&height=100&section=footer"/>
-</p>
+## 📊 Development Analytics
+
+<div align="center">
+
+<!-- Enhanced GitHub Stats with Dark Theme -->
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=wahyualif23014&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ffffff"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyualif23014&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ffffff"/>
+
+<!-- GitHub Streak with Enhanced Dark Theme -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyualif23014&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)](https://git.io/streak-stats)
+
+<!-- Contribution Graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wahyualif23014&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff)](https://github.com/wahyualif23014)
+
+</div>
+
+---
+
+## 💡 Development Philosophy
+
+<div align="center">
+
+<!-- Philosophy Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a2e&height=120&section=header&text=My%20Philosophy&fontSize=30&fontColor=64ffda&animation=fadeIn" />
+
+> *"Determine your steps even while sleeping – keep moving forward,*  
+> *believe me everything will come in its time."*  
+> 
+> **— Sadewa Wahyu Alif**
+
+<!-- Inspiration Animation -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="Innovation Mindset" />
+
+</div>
+
+### 🎯 **Core Principles:**
+- **🔥 Passion-Driven Development** - Every project tells a story
+- **🚀 Innovation First** - Always exploring cutting-edge technologies  
+- **🤝 Community Focused** - Growing together through open source
+- **⚡ Performance Optimized** - Fast, efficient, and scalable solutions
+- **🎨 User-Centric Design** - Beautiful interfaces with great UX
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+### 📞 **Get In Touch**
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4)](mailto:zexvulca@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/wahyualif23014)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/wahyualif)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/Sadewa..dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://wahyualif.dev)
+
+### 💬 **Let's Talk About:**
+- 🚀 **Innovative Project Ideas**
+- 🤝 **Open Source Collaborations** 
+- 💻 **Full-Stack Development**
+- 🎯 **Career Growth & Opportunities**
+
+</div>
+
+---
+
+## 🎮 Fun Developer Facts
+
+<div align="center">
+
+<!-- Fun Facts Animation -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding Life" />
+
+### 🎯 **Developer Lifestyle:**
+- ☕ **Coffee Enthusiast** - Fuel for late-night coding sessions
+- 🌙 **Night Owl Coder** - Best ideas come after midnight
+- 🎵 **Music-Driven** - Lo-fi beats for maximum productivity  
+- 📚 **Continuous Learner** - Always exploring new technologies
+- 🎯 **Problem Solver** - Every bug is a puzzle to solve
+- 🚀 **Future-Focused** - Building tomorrow's solutions today
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 **"Code. Learn. Build. Repeat."** 🔥
+
+<!-- Enhanced Footer with Dark Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,25:0f3460,50:16213e,75:1a1a2e,100:0a0a0a&height=150&section=footer&animation=fadeIn" />
+
+<!-- Profile Views Counter with Dark Theme -->
+<img src="https://komarev.com/ghpvc/?username=wahyualif23014&style=for-the-badge&color=64ffda&labelColor=0a0a0a" alt="Profile Views" />
+
+<!-- Wave Animation -->
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100" alt="Wave" />
+
+</div>
