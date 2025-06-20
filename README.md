@@ -123,7 +123,6 @@
 
 <div align="center">
 
-<!-- Philosophy Banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a2e&height=120&section=header&text=My%20Philosophy&fontSize=30&fontColor=64ffda&animation=fadeIn" />
 
 > *"Determine your steps even while sleeping – keep moving forward,*  
