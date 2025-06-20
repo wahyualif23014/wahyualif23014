@@ -34,7 +34,7 @@
 ### 📚 **Currently Mastering:**
 </div>
 
-- 🔄 **Advanced JavaScript Ecosystem** (React 18, Vue 3, Next.js)
+- 🔄 **Advanced JavaScript Ecosystem** (Vue 3, Next.js)
 - 📱 **Flutter Development** & Clean Architecture Patterns
 - 🔙 **Backend Mastery** - Node.js + Express + REST API Design
 - 🤖 **AI/ML Integration** - TensorFlow.js & OpenAI APIs
