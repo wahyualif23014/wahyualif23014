@@ -176,8 +176,7 @@
 
 ### 🎯 **Developer Lifestyle:**
 - ☕ **Coffee Enthusiast** - Fuel for late-night coding sessions
-- 🌙 **Night Owl Coder** - Best ideas come after midnight
-- 🎵 **Music-Driven** - Lo-fi beats for maximum productivity  
+- 🌙 **Night Owl Coder** - Best ideas come after midnight  
 - 📚 **Continuous Learner** - Always exploring new technologies
 - 🎯 **Problem Solver** - Every bug is a puzzle to solve
 - 🚀 **Future-Focused** - Building tomorrow's solutions today
