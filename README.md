@@ -28,7 +28,6 @@
 
 <div align="center">
 
-<!-- Learning Animation -->
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Learning Animation" />
 
 ### 📚 **Currently Mastering:**
@@ -37,7 +36,7 @@
 - 🔄 **Advanced JavaScript Ecosystem** (Vue 3, Next.js)
 - 📱 **Flutter Development** & Clean Architecture Patterns
 - 🔙 **Backend Mastery** - Node.js + Express + REST API Design
-- 🤖 **AI/ML Integration** - TensorFlow.js & OpenAI APIs
+- 🤖 **AI/ML Integration** - TensorFlow & OpenAI APIs
 - 🎨 **Modern UI/UX** - Tailwind CSS & Component Libraries
 
 ---
