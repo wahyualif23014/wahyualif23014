@@ -6,7 +6,7 @@
 <!-- Enhanced Animated Typing with Dark Theme -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1200&color=64FFDA&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Wahyu+Alif+(Sadewa)!+👋;Full-Stack+Developer+%7C+Mobile+%26+Web+Expert;Building+Modern+%26+Scalable+Applications;Clean+Code+%7C+Open+Source+%7C+AI+Integration;Always+Learning%2C+Always+Creating+🚀" alt="Typing SVG" />
 
-<!-- Additional Tech Animation -->
+
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="660" alt="AI Technology Animation" />
 
 </div>
