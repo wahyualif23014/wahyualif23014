@@ -174,7 +174,7 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding Life" />
 
 ### 🎯 **Developer Lifestyle:**
-- ☕ **Coffee Enthusiast** - Fuel for late-night coding sessions
+- ☕ **Tea Enthusiast** - Fuel for late-night coding sessions
 - 🌙 **Night Owl Coder** - Best ideas come after midnight  
 - 📚 **Continuous Learner** - Always exploring new technologies
 - 🎯 **Problem Solver** - Every bug is a puzzle to solve
