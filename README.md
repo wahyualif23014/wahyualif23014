@@ -183,9 +183,6 @@
 
 <div align="center">
 
-### "Code. Learn. Build. Repeat.
-
-
 <!-- Profile Views Counter with Dark Theme -->
 <div align= "center">
 <img src="https://komarev.com/ghpvc/?username=wahyualif23014&style=for-the-badge&color=64ffda&labelColor=0a0a0a" alt="Profile Views" />
