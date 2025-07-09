@@ -185,8 +185,6 @@
 
 ### 🔥 **"Code. Learn. Build. Repeat."** 🔥
 
-<!-- Enhanced Footer with Dark Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:533483,25:0f3460,50:16213e,75:1a1a2e,100:0a0a0a&height=150&section=footer&animation=fadeIn" />
 
 <!-- Profile Views Counter with Dark Theme -->
 <div align= "center">
