@@ -183,7 +183,7 @@
 
 <div align="center">
 
-### 🔥 **"Code. Learn. Build. Repeat."** 🔥
+### "Code. Learn. Build. Repeat.
 
 
 <!-- Profile Views Counter with Dark Theme -->
