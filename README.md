@@ -133,7 +133,6 @@
 </div>
 
 ### 🎯 **Core Principles:**
-- **🔥 Passion-Driven Development** - Every project tells a story
 - **🚀 Innovation First** - Always exploring cutting-edge technologies  
 - **🤝 Community Focused** - Growing together through open source
 - **⚡ Performance Optimized** - Fast, efficient, and scalable solutions
