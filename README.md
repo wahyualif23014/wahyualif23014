@@ -48,7 +48,7 @@
 | 💼 **Domain** | 🛠️ **Specialization** | 💡 **Experience** |
 |---------------|------------------------|-------------------|
 | **📲 Mobile Development** | Flutter, Kotlin | Cross-platform apps |
-| **🌐 Web Development** | PHP, React, Vue, Node.js | Full-stack solutions |
+| **🌐 Web Development** | PHP, React, Node.js | Full-stack solutions |
 | **🚀 Open Source** | GitHub, Collaboration | Community projects |
 | **🧠 Clean Code** | Architecture, Patterns | Best practices |
 
