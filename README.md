@@ -99,7 +99,6 @@
 
 <div align="center">
 
-<!-- Enhanced GitHub Stats with Dark Theme -->
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=wahyualif23014&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyualif23014&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ffffff"/>
