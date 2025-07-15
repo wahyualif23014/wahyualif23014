@@ -14,8 +14,6 @@
 ---
 ### 🎯 *Professional Overview*
 
----
-
 ### 🎨 **Current Focus Areas:**
 - ⚙️ Developing **Modern & Scalable Mobile + Web Apps**
 - 🌍 Contributing to **Open-Source Projects** 
